@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:kwstassrp6991@gmail.com">📧 kwstassrp6991@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/konstantinos-serepas-0a5320341/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://kwstassrp6991.github.io">🌐 MySite</a>
+  <a href="https://github.com/kwstassrp6991?tab=repositories">🌐 MySite</a>
 </p>
 
 ---
